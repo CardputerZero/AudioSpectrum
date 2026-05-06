@@ -1,5 +1,6 @@
 #include "audio_input.h"
 
+#include "compat/input_keys.h"
 #include "keyboard_input.h"
 #include "lvgl/lvgl.h"
 
