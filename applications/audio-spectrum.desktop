@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=AudioSpectrum
+Exec=/usr/share/APPLaunch/bin/M5CardputerZero-AudioSpectrum
+Terminal=false
+Icon=share/images/audio-spectrum.png
+Type=Application
